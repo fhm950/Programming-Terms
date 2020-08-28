@@ -1,0 +1,27 @@
+Closure:
+"In programming languages, a closure, also lexical closure or function closure, is a technique for implementing lexically scoped name binding in a language with first-class functions. Operationally, a closure is a record storing a function together with an environment."
+
+First-Class Function:
+"A Programming Language is said to have first-class functions if it treats functions as first-class citizens."
+
+First-Class Citizen(Programming):
+"In programming language design, a first-class citizen (also type, object, entity, or value) in a given programming language is an entity which supports all the operations generally available to other entities."
+
+Mutable and Immutable:
+"In object-oriented and functional programming, an immutable object is an object whose state cannot be modified after it is created. This is in contrast to a mutable object, which can be modified after it is created."
+
+Memoization:
+"In computing, memoization or memoisation is an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again."
+
+Combination and Permutation:
+"Combinations are emitted in lexicographic sort order. So, if the input iterable is sorted, the combination tuples will be produced in sorted order. Elements are treated as unique based on their position, not on their value. So if the input elements are unique, there will be no repeat values in each combination."
+"Permutations are emitted in lexicographic sort order. So, if the input iterable is sorted, the permutation tuples will be produced in sorted order. Elements are treated as unique based on their position, not on their value. So if the input elements are unique, there will be no repeat values in each permutation."
+
+Idempotence:
+"Idempotence is the property of certain operations in mathematics and computer science whereby they can be applied multiple times without changing the result beyond the initial application. The concept of idempotence arises in a number of places in abstract algebra and functional programming."
+
+Don't Repeat Yourself(DRY):
+"Don't repeat yourself is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy."
+
+String Interpolation:
+"In computer programming, string interpolation is the process of evaluating a string literal containing one or more placeholders, yielding a result in which the placeholders are replaced with their corresponding values. It is a form of simple template processing or, in formal terms, a form of quasi-quotation."
